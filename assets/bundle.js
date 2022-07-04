@@ -41175,7 +41175,7 @@
                         preloadWebGL() {
                             po.setOptions({
                                 CANVAS: this.canvas,
-                                ROOT_FOLDER: "./world"
+                                ROOT_FOLDER: "clonexx/world"
                             }), po.preload().then((() => {
                                 go.load([{
                                     name: "globalLoop",
