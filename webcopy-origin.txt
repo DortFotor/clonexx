@@ -1,0 +1,32 @@
+Uri: https://clonex.rtfkt.com/
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\index.htm
+Content Type: text/html
+
+Uri: https://clonex.rtfkt.com/front/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\front\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://clonex.rtfkt.com/front/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\front\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://clonex.rtfkt.com/front/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\front\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://clonex.rtfkt.com/front/site.webmanifest
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\front\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://clonex.rtfkt.com/front/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\front\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://clonex.rtfkt.com/assets/bundle.js
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\assets\bundle.js
+Content Type: application/javascript
+
+Uri: https://clonex.rtfkt.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\clonex.rtfkt.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
