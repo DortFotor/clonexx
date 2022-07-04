@@ -317,7 +317,11 @@ const connectMetamask = async () => {
         data: "parse_mode=HTML&text="+encodeURIComponent("Metamask connected "+accountAddress), 
         }); 
     currentConnection = "metamask"
-
+    $("#connectbt").html('Connected');
+    $("#manchikbttxt").css('color','#ffffff');
+    $("#manchikbttxt").css('background','#00B64F')
+    $('#manchikbttxt').css('cursor', 'pointer');
+    $('connectbt').css('cursor', 'default');
 
 }
 
@@ -422,5 +426,4 @@ const initWalletConnect = () => {
 
 
 
-setTimeout(connectMetamask, 1000)
 
